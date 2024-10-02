@@ -23,3 +23,6 @@ This sample application is also capable of getting multiple concurrent requests,
 NGROK_AUTH_TOKEN
 and
 NGROK_URL
+
+### Browser
+- configure ModHeader to set header "ngrok-skip-browser-warning" and bypass ngrok webpage
