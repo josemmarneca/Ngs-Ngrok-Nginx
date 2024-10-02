@@ -1,0 +1,7 @@
+version: "2"
+authtoken: 2mpvQjckoRJBhgMWbYb5VsRAZAb_3ZKFBLKEhzqUhRfUxbF7V  # Your ngrok auth token
+tunnels:
+  nginx:
+    proto: http
+    addr: nginx:80  # Forward traffic to the nginx container
+    url: gibbon-absolute-daily.ngrok-free.app
