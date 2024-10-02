@@ -4,7 +4,7 @@
 
 ### Ngrok
 1. Create Account 
-1.1 Get Token and url static
+1.1.  Get Token and url static
 
 2. Configure ngrok/ngrok.yml
 NGROK_AUTH_TOKEN
